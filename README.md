@@ -1,7 +1,7 @@
 # TODO ENGINE
 
 ## Demo
-![Demo Screenshot](./assets/demo.png)
+![Demo Screenshot](./assets/Demo.png)
 Shocasing an image of the file executed in the terminal: what is visible is just the last part as the checking process 
 comes to end with "updated", "completed" and "deleted" task.
 
